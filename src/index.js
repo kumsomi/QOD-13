@@ -13,6 +13,7 @@ console.log(kineticEnergy(3, 4));
 function simpleInterest(p, r, t) {
   return (p * r * t) / 100;
 }
+console.log(simpleInterest(100, 6, 2));
 
 // Q3:- Write a program to convert octal to decimal
 
